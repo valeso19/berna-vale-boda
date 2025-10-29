@@ -32,17 +32,5 @@
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.32",
     "gh-pages": "^6.1.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/TU_USUARIO/berna-vale-boda.git"
-  },
-  "keywords": [
-    "wedding",
-    "pwa",
-    "react",
-    "typescript",
-    "planner",
-    "budget"
-  ]
+  }
 }
